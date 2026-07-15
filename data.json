@@ -114,11 +114,9 @@
   },
   "mrkyyrh0k8hso": {
     "id": "mrkyyrh0k8hso",
-    "isLocked": true,
-    "lockExpiry": "2026-07-15T18:16",
+    "isLocked": false,
     "name": "Server 2",
-    "type": "folder",
-    "lockHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+    "type": "folder"
   },
   "mrkyzonggnk3z": {
     "description": "X video",
