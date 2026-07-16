@@ -155,5 +155,14 @@
     "name": "Horror Full Movie",
     "thumbnail": "https://img.youtube.com/vi/wLzBcWDOFxk/maxresdefault.jpg",
     "type": "card"
+  },
+  "mrni13cxlcg6w": {
+    "description": "Animation Movies",
+    "id": "mrni13cxlcg6w",
+    "isLocked": false,
+    "link": "https://youtu.be/r0ws8o-vGgs?si=RoHUHaWg5MK_jJHa",
+    "name": "Animation Movies",
+    "thumbnail": "https://img.youtube.com/vi/r0ws8o-vGgs/maxresdefault.jpg",
+    "type": "card"
   }
 }
