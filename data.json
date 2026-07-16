@@ -1,69 +1,4 @@
 {
-  "c1": {
-    "id": "c1",
-    "link": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
-    "name": "AI Future",
-    "parentId": "f1",
-    "thumbnail": "https://via.placeholder.com/120x60/222/fff?text=AI",
-    "type": "card"
-  },
-  "c2": {
-    "id": "c2",
-    "link": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
-    "name": "Web 3.0",
-    "parentId": "f1",
-    "thumbnail": "https://via.placeholder.com/120x60/222/fff?text=Web3",
-    "type": "card"
-  },
-  "c3": {
-    "id": "c3",
-    "link": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
-    "name": "Song A",
-    "parentId": "f2",
-    "thumbnail": "https://via.placeholder.com/120x60/222/fff?text=SongA",
-    "type": "card"
-  },
-  "c4": {
-    "id": "c4",
-    "link": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
-    "name": "Song B",
-    "parentId": "f2",
-    "thumbnail": "https://via.placeholder.com/120x60/222/fff?text=SongB",
-    "type": "card"
-  },
-  "c5": {
-    "id": "c5",
-    "link": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "name": "Direct MP4",
-    "thumbnail": "https://via.placeholder.com/120x60/222/fff?text=MP4",
-    "type": "card"
-  },
-  "c6": {
-    "id": "c6",
-    "link": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1",
-    "name": "Trailer 1",
-    "parentId": "f3",
-    "thumbnail": "https://via.placeholder.com/120x60/222/fff?text=T1",
-    "type": "card"
-  },
-  "f1": {
-    "id": "f1",
-    "name": "Tech Talks",
-    "thumbnail": "https://via.placeholder.com/120x60/1a1a2e/4fc3f7?text=Tech",
-    "type": "folder"
-  },
-  "f2": {
-    "id": "f2",
-    "name": "Music Videos",
-    "thumbnail": "https://via.placeholder.com/120x60/1a1a2e/4fc3f7?text=Music",
-    "type": "folder"
-  },
-  "f3": {
-    "id": "f3",
-    "name": "Movie Trailers",
-    "thumbnail": "https://via.placeholder.com/120x60/1a1a2e/4fc3f7?text=Movies",
-    "type": "folder"
-  },
   "mrj5s5dut3k7r": {
     "id": "mrj5s5dut3k7r",
     "isLocked": false,
@@ -208,5 +143,82 @@
     "name": "Amazing Beautiful",
     "thumbnail": "https://img.youtube.com/vi/FLDLCehR-cg/maxresdefault.jpg",
     "type": "card"
+  },
+  "mrnqcm3o4l7u8": {
+    "id": "mrnqcm3o4l7u8",
+    "isLocked": false,
+    "name": "Hollywood Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
+  },
+  "mrnqdviww4fye": {
+    "id": "mrnqdviww4fye",
+    "isLocked": false,
+    "name": "Hollywood Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
+  },
+  "mrnqeq0g5z5n1": {
+    "id": "mrnqeq0g5z5n1",
+    "isLocked": false,
+    "name": "Bollywood Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
+  },
+  "mrnqfzprcp3ma": {
+    "id": "mrnqfzprcp3ma",
+    "isLocked": false,
+    "name": "Pakistani Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
+  },
+  "mrnqhg78r0xlv": {
+    "id": "mrnqhg78r0xlv",
+    "isLocked": false,
+    "name": "Asia Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
+  },
+  "mrnqi7bv7ee6m": {
+    "id": "mrnqi7bv7ee6m",
+    "isLocked": false,
+    "name": "YouTube Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
+  },
+  "mrnqjf3izwrjf": {
+    "id": "mrnqjf3izwrjf",
+    "isLocked": false,
+    "name": "News Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
+  },
+  "mrnqk6gtkvszs": {
+    "id": "mrnqk6gtkvszs",
+    "isLocked": false,
+    "name": "Drama Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
+  },
+  "mrnqn3buiw4ll": {
+    "id": "mrnqn3buiw4ll",
+    "isLocked": false,
+    "name": "Animal Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
+  },
+  "mrnqnh6bilgi4": {
+    "id": "mrnqnh6bilgi4",
+    "isLocked": false,
+    "name": "Cartoon Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
+  },
+  "mrnqoaty1zhxv": {
+    "id": "mrnqoaty1zhxv",
+    "isLocked": false,
+    "name": "Games Server",
+    "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
+    "type": "folder"
   }
 }
