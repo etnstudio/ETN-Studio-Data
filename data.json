@@ -146,5 +146,13 @@
     "name": "Yah Dillagi 1994",
     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXtsSpunyU9fb_xxSKM3BYUr37SAtJQdJHaLVZtMrcuGvZt3gcUUV--Bo&s=10",
     "type": "card"
+  },
+  "mrnfvlj9z5q0x": {
+    "id": "mrnfvlj9z5q0x",
+    "isLocked": false,
+    "link": "https://youtu.be/qx6UvRsN9GI?si=Hz3KHAP-uRuKa348",
+    "name": "Animation Movies",
+    "thumbnail": "https://img.youtube.com/vi/qx6UvRsN9GI/maxresdefault.jpg",
+    "type": "card"
   }
 }
