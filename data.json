@@ -220,5 +220,34 @@
     "name": "Games Server",
     "thumbnail": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-yellow-folder-icon-isolated-on-transparent-background-png-image_16839244.webp",
     "type": "folder"
+  },
+  "mrnqsu9kp6b9f": {
+    "description": "All News Live Pakistani",
+    "id": "mrnqsu9kp6b9f",
+    "isLocked": false,
+    "link": "https://www.youtube.com/live/t3fvgmDDmdc?si=sm5yTubOoU2OCiaj",
+    "name": "GEO News Live 🔴",
+    "parentId": "mrnqjf3izwrjf",
+    "thumbnail": "https://img.youtube.com/vi/t3fvgmDDmdc/maxresdefault.jpg",
+    "type": "card"
+  },
+  "mrnqumco04mte": {
+    "description": "All Pakistani News Live 🔴",
+    "id": "mrnqumco04mte",
+    "isLocked": false,
+    "link": "https://www.youtube.com/live/ORYqk9pGiCM?si=AwadQYVAhytNdmYc",
+    "name": "ARY News Live 🔴",
+    "parentId": "mrnqjf3izwrjf",
+    "thumbnail": "https://img.youtube.com/vi/ORYqk9pGiCM/maxresdefault.jpg",
+    "type": "card"
+  },
+  "mrnqwf7tnukpo": {
+    "id": "mrnqwf7tnukpo",
+    "isLocked": false,
+    "link": "https://www.youtube.com/live/e2XVSUYh4S0?si=W7I9ykDlcAvaYp8_",
+    "name": "Duniya News Live 🔴",
+    "parentId": "mrnqjf3izwrjf",
+    "thumbnail": "https://img.youtube.com/vi/e2XVSUYh4S0/maxresdefault.jpg",
+    "type": "card"
   }
 }
