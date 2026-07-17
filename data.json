@@ -309,5 +309,41 @@
     "name": "Chaina Ajeeb Ghareeb Animal",
     "thumbnail": "https://img.youtube.com/vi/hdLVQYNa3gQ/maxresdefault.jpg",
     "type": "card"
+  },
+  "mroxh1y4klih7": {
+    "id": "mroxh1y4klih7",
+    "isLocked": false,
+    "link": "https://youtu.be/ZKTVuON5xy4?si=on19eVf_KG0tnXCB",
+    "name": "Camra main Record ajeeb Ghareeb Kam",
+    "parentId": "mrnqi7bv7ee6m",
+    "thumbnail": "https://img.youtube.com/vi/ZKTVuON5xy4/maxresdefault.jpg",
+    "type": "card"
+  },
+  "mroxiv8r75vni": {
+    "id": "mroxiv8r75vni",
+    "isLocked": false,
+    "link": "https://youtu.be/XG8IsCTWTQE?si=s35FFcOYvj14vY68",
+    "name": "Ajeeb Ghareeb wakia Duniya ke",
+    "parentId": "mrnqi7bv7ee6m",
+    "thumbnail": "https://img.youtube.com/vi/XG8IsCTWTQE/maxresdefault.jpg",
+    "type": "card"
+  },
+  "mroxkhsphdsct": {
+    "id": "mroxkhsphdsct",
+    "isLocked": false,
+    "link": "https://youtu.be/nltYDxNxTxQ?si=6N7NW0k3n13IDW10",
+    "name": "Duniya Bhar ke ajeeb Ghareeb wakia",
+    "parentId": "mrnqi7bv7ee6m",
+    "thumbnail": "https://img.youtube.com/vi/nltYDxNxTxQ/maxresdefault.jpg",
+    "type": "card"
+  },
+  "mroxmd8oh2cl4": {
+    "id": "mroxmd8oh2cl4",
+    "isLocked": false,
+    "link": "https://youtu.be/ouB2VDrHYps?si=Xyp_OLzvKNRvCOU4",
+    "name": "Duniya Bhar se ajeeb Ghareeb Kam",
+    "parentId": "mrnqi7bv7ee6m",
+    "thumbnail": "https://img.youtube.com/vi/ouB2VDrHYps/maxresdefault.jpg",
+    "type": "card"
   }
 }
